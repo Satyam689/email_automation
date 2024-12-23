@@ -1,10 +1,8 @@
 ![Full Stack Chat PDF Clone](https://github.com/user-attachments/assets/03580ec6-99f0-4f3e-8a0d-141e15d2e17b)
 
-[Link to YouTube Tutorial]([https://www.youtube.com/watch?v=bZFedu-0emE](https://youtu.be/Qm7-7PnszM4))
-
 # Overview
 
-Welcome to this comprehensive full-stack tutorial where we build and deploy a fully featured AI powered email client using NextJS 14. Join me as we build an entire project from the ground up and seamlessly deploy it to Vercel 🚀. The application also includes a subscription feature, where users can subscribe to access premium features. The subscription process is handled using Stripe for payments and webhooks for event processing.
+Welcome to this email automation project.
 
 
 # Technologies and Frameworks
@@ -13,20 +11,7 @@ Welcome to this comprehensive full-stack tutorial where we build and deploy a fu
 - React
 - TypeScript
 - Tailwind CSS
-- Clerk
-- Prisma ORM
 - PostgreSQL
-- AWS SDK
-- OpenAI API
-- Stripe
-- Axios
-- Pinecone
-- OpenAI Edge
-- Neon Database Serverless
-- @tanstack/react-query
-- @clerk/nextjs
-- clsx
-- tailwind-merge
 
 # Installation
 
@@ -37,7 +22,7 @@ Follow the steps below to install and setup the project:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/Elliott-Chong/normalhuman.git
+   git clone https://github.com/Satyam689/email_automation.git
    ```
 
 2. **Navigate to the project directory**
